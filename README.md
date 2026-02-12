@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Carlos (Kernel) 👋
+# Carlos 👋
 ### Desarrollo webs rápidas y claras para que te contacten 🚀
 
 Rosario, Santa Fe 🇦🇷 · Astro / React / Tailwind · Implementación ágil · Soporte post-publicación
@@ -69,9 +69,11 @@ Reparación/armado de PCs y notebooks, optimización, instalación de Linux y Wi
   <summary>📊 GitHub Stats</summary>
   <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RamirezDiazCarlos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9&cache_seconds=86400)
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamirezDiazCarlos&theme=github_dark)
 
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RamirezDiazCarlos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9&cache_seconds=86400)
+  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamirezDiazCarlos&theme=github_dark)
+
+  ![Streak](https://streak-stats.demolab.com?user=RamirezDiazCarlos&theme=github-dark&hide_border=true)
 
   </div>
 </details>
