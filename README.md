@@ -7,9 +7,9 @@
 
 Rosario, Santa Fe 🇦🇷 · Astro / React / Tailwind · Implementación ágil · Soporte post-publicación
 
-[![Web](https://img.shields.io/badge/🌐_Kernel-Portfolio-00d26a?style=for-the-badge)](https://kernel-rosario.vercel.app/)
-[![WhatsApp](https://img.shields.io/badge/📲_WhatsApp-Pedir_presupuesto-00d26a?style=for-the-badge)](https://wa.me/54XXXXXXXXXX)
-[![Email](https://img.shields.io/badge/✉️_Email-Contacto-00d26a?style=for-the-badge)](mailto:TUEMAIL@MAIL.COM)
+[![Pedir presupuesto](https://img.shields.io/badge/🧾_Pedir_presupuesto-Kernel_Web-00d26a?style=for-the-badge)](https://kernel-rosario.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/📲_WhatsApp-5493412250129-00d26a?style=for-the-badge)](https://wa.me/5493412250129?text=Hola%20Carlos%2C%20quiero%20presupuesto%20para%20una%20web.)
+[![Email](https://img.shields.io/badge/✉️_Email-cramirezdiaz.dev%40gmail.com-00d26a?style=for-the-badge)](mailto:cramirezdiaz.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ramirez-diaz-10416963/)
 
 </div>
@@ -69,9 +69,9 @@ Reparación/armado de PCs y notebooks, optimización, instalación de Linux y Wi
   <summary>📊 GitHub Stats</summary>
   <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamirezDiazCarlos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a)
+  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RamirezDiazCarlos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9&cache_seconds=86400)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamirezDiazCarlos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RamirezDiazCarlos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9&cache_seconds=86400)
 
   </div>
 </details>
